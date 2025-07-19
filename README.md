@@ -1,1 +1,2 @@
 # TrafficTelligence-Advanced-Traffic-Volume-Estimation-with-Machine-Learning
+  A Machine Learning project about traffic intelligence is an advanced traffic volume estimation system. It estimates and predicts volume with precision by analyzing historical traffic data, weather patterns, events, and other relevant factors. TrafficTelligence provides accurate forecasts and insights to enhance traffic management, urban planning, and commuter experiences.
